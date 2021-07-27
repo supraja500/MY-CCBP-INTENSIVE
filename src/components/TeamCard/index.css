@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.itemLink {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.team-card {
+  border: 3px solid pink;
+  border-radius: 15px;
+  width: 300px;
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+}
+
+h1 {
+  font-size: 20px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  color: black;
+}
+
+.image2 {
+  width: 50px;
+  height: 50px;
+}
